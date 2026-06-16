@@ -4,6 +4,11 @@
 
 ---
 
+🔐 Environment Variables Setup
+1. Create a .env file in the project root
+   Main_KPI/src/.env
+   GROQ_API_KEY=your_api_key_here
+
 ## Table of Contents
 
 1. [Project Overview](#1-project-overview)
