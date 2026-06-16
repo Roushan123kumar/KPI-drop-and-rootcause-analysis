@@ -1,0 +1,755 @@
+timestamp,user,action,details
+2026-03-09 09:26:44,Admin,Threshold Change,Sales threshold set to 500
+2026-03-09 09:26:44,Admin,Threshold Change,Profit threshold set to 15000
+2026-03-09 09:26:44,Admin,Threshold Change,Orders threshold set to 100
+2026-03-09 09:26:44,Admin,Threshold Change,Margin threshold set to 20
+2026-03-09 09:26:44,Admin,Threshold Change,Shipping delay threshold set to 3
+2026-03-09 09:26:44,System,KPI Drop Detected,🚨 Daily Sales Drop: -75.52%
+2026-03-09 09:26:44,System,KPI Drop Detected,🚨 Weekly Sales Drop: -36.62%
+2026-03-09 09:26:44,System,KPI Drop Detected,🚨 Monthly Sales Drop: -14.98%
+2026-03-09 09:31:22,Admin,Threshold Change,Sales threshold set to 500
+2026-03-09 09:31:22,Admin,Threshold Change,Profit threshold set to 15000
+2026-03-09 09:31:22,Admin,Threshold Change,Orders threshold set to 100
+2026-03-09 09:31:22,Admin,Threshold Change,Margin threshold set to 20
+2026-03-09 09:31:22,Admin,Threshold Change,Shipping delay threshold set to 3
+2026-03-09 09:31:22,System,KPI Drop Detected,🚨 Daily Sales Drop: -75.52%
+2026-03-09 09:31:22,System,KPI Drop Detected,🚨 Weekly Sales Drop: -36.62%
+2026-03-09 09:31:22,System,KPI Drop Detected,🚨 Monthly Sales Drop: -14.98%
+2026-03-09 09:32:09,Admin,Threshold Change,Sales threshold set to 500
+2026-03-09 09:32:09,Admin,Threshold Change,Profit threshold set to 15000
+2026-03-09 09:32:09,Admin,Threshold Change,Orders threshold set to 100
+2026-03-09 09:32:09,Admin,Threshold Change,Margin threshold set to 20
+2026-03-09 09:32:09,Admin,Threshold Change,Shipping delay threshold set to 3
+2026-03-09 09:32:09,System,KPI Drop Detected,🚨 Daily Sales Drop: -75.52%
+2026-03-09 09:32:09,System,KPI Drop Detected,🚨 Weekly Sales Drop: -36.62%
+2026-03-09 09:32:09,System,KPI Drop Detected,🚨 Monthly Sales Drop: -14.98%
+2026-03-09 09:34:22,System,KPI Drop Detected,🚨 Daily Sales Drop: -75.52%
+2026-03-09 09:34:22,System,KPI Drop Detected,🚨 Weekly Sales Drop: -36.62%
+2026-03-09 09:34:22,System,KPI Drop Detected,🚨 Monthly Sales Drop: -14.98%
+2026-03-09 09:48:27,System,KPI Drop Detected,🚨 Daily Sales Drop: -75.52%
+2026-03-09 09:48:27,System,KPI Drop Detected,🚨 Weekly Sales Drop: -36.62%
+2026-03-09 09:48:27,System,KPI Drop Detected,🚨 Monthly Sales Drop: -14.98%
+2026-03-09 09:48:37,Viewer,User Logout,User logged out of system
+2026-03-09 09:48:38,System,KPI Drop Detected,🚨 Daily Sales Drop: -75.52%
+2026-03-09 09:48:38,System,KPI Drop Detected,🚨 Weekly Sales Drop: -36.62%
+2026-03-09 09:48:39,System,KPI Drop Detected,🚨 Monthly Sales Drop: -14.98%
+2026-03-09 09:48:46,,User Logout,User logged out of system
+2026-03-09 09:48:48,System,KPI Drop Detected,🚨 Daily Sales Drop: -75.52%
+2026-03-09 09:48:48,System,KPI Drop Detected,🚨 Weekly Sales Drop: -36.62%
+2026-03-09 09:48:48,System,KPI Drop Detected,🚨 Monthly Sales Drop: -14.98%
+2026-03-09 09:51:52,System,KPI Drop Detected,🚨 Daily Sales Drop: -75.52%
+2026-03-09 09:51:53,System,KPI Drop Detected,🚨 Weekly Sales Drop: -36.62%
+2026-03-09 09:51:53,System,KPI Drop Detected,🚨 Monthly Sales Drop: -14.98%
+2026-03-09 09:52:05,System,KPI Drop Detected,🚨 Daily Sales Drop: -75.52%
+2026-03-09 09:52:05,System,KPI Drop Detected,🚨 Weekly Sales Drop: -36.62%
+2026-03-09 09:52:05,System,KPI Drop Detected,🚨 Monthly Sales Drop: -14.98%
+2026-03-09 09:54:51,System,KPI Drop Detected,🚨 Daily Sales Drop: -75.52%
+2026-03-09 09:54:51,System,KPI Drop Detected,🚨 Weekly Sales Drop: -36.62%
+2026-03-09 09:54:51,System,KPI Drop Detected,🚨 Monthly Sales Drop: -14.98%
+2026-03-09 09:57:39,Admin,Threshold Change,Sales threshold set to 500
+2026-03-09 09:57:39,Admin,Threshold Change,Profit threshold set to 15000
+2026-03-09 09:57:39,Admin,Threshold Change,Orders threshold set to 100
+2026-03-09 09:57:39,Admin,Threshold Change,Margin threshold set to 20
+2026-03-09 09:57:39,Admin,Threshold Change,Shipping delay threshold set to 3
+2026-03-09 09:57:39,System,KPI Drop Detected,🚨 Daily Sales Drop: -75.52%
+2026-03-09 09:57:39,System,KPI Drop Detected,🚨 Weekly Sales Drop: -36.62%
+2026-03-09 09:57:39,System,KPI Drop Detected,🚨 Monthly Sales Drop: -14.98%
+2026-03-09 10:18:56,Admin,Threshold Change,"Sales=500, Profit=15000, Orders=100, Margin=20, Shipping=3"
+2026-03-09 10:18:57,System,KPI Drop Detected,🚨 Daily Sales Drop: -75.52%
+2026-03-09 10:18:57,System,KPI Drop Detected,🚨 Weekly Sales Drop: -36.62%
+2026-03-09 10:18:57,System,KPI Drop Detected,🚨 Monthly Sales Drop: -14.98%
+2026-03-09 10:19:11,Admin,Threshold Change,"Sales=500, Profit=10000, Orders=100, Margin=20, Shipping=3"
+2026-03-09 10:19:12,System,KPI Drop Detected,🚨 Daily Sales Drop: -75.52%
+2026-03-09 10:19:12,System,KPI Drop Detected,🚨 Weekly Sales Drop: -36.62%
+2026-03-09 10:19:12,System,KPI Drop Detected,🚨 Monthly Sales Drop: -14.98%
+2026-03-09 10:28:33,Admin,Threshold Change,"Sales=500, Profit=15000, Orders=100, Margin=20, Shipping=3"
+2026-03-09 10:28:34,System,KPI Drop Detected,🚨 Daily Sales Drop: -75.52%
+2026-03-09 10:28:34,System,KPI Drop Detected,🚨 Weekly Sales Drop: -36.62%
+2026-03-09 10:28:34,System,KPI Drop Detected,🚨 Monthly Sales Drop: -14.98%
+2026-03-09 10:29:22,Admin,Threshold Change,"Sales=501, Profit=15000, Orders=100, Margin=20, Shipping=3"
+2026-03-09 10:29:22,System,KPI Drop Detected,🚨 Daily Sales Drop: -75.52%
+2026-03-09 10:29:22,System,KPI Drop Detected,🚨 Weekly Sales Drop: -36.62%
+2026-03-09 10:29:22,System,KPI Drop Detected,🚨 Monthly Sales Drop: -14.98%
+2026-03-09 10:30:28,Admin,Threshold Change,"Sales=502, Profit=15000, Orders=100, Margin=20, Shipping=3"
+2026-03-09 10:30:29,Admin,Threshold Change,"Sales=503, Profit=15000, Orders=100, Margin=20, Shipping=3"
+2026-03-09 10:30:30,System,KPI Drop Detected,🚨 Daily Sales Drop: -75.52%
+2026-03-09 10:30:30,System,KPI Drop Detected,🚨 Weekly Sales Drop: -36.62%
+2026-03-09 10:30:30,System,KPI Drop Detected,🚨 Monthly Sales Drop: -14.98%
+2026-03-09 10:31:12,Admin,Threshold Change,"Sales=100000, Profit=15000, Orders=100, Margin=20, Shipping=3"
+2026-03-09 10:31:13,System,KPI Drop Detected,🚨 Daily Sales Drop: -75.52%
+2026-03-09 10:31:13,System,KPI Drop Detected,🚨 Weekly Sales Drop: -36.62%
+2026-03-09 10:31:13,System,KPI Drop Detected,🚨 Monthly Sales Drop: -14.98%
+2026-03-10 12:38:48,Admin,Threshold Change,"Sales=500, Profit=15000, Orders=100, Margin=20, Shipping=3"
+2026-03-10 12:38:49,System,KPI Drop Detected,🚨 Daily Sales Drop: -75.52%
+2026-03-10 12:38:49,System,KPI Drop Detected,🚨 Weekly Sales Drop: -36.62%
+2026-03-10 12:38:49,System,KPI Drop Detected,🚨 Monthly Sales Drop: -14.98%
+2026-03-10 12:39:30,Admin,Threshold Change,"Sales=500, Profit=15000, Orders=100, Margin=20, Shipping=3"
+2026-03-10 12:39:30,System,KPI Drop Detected,🚨 Daily Sales Drop: -75.52%
+2026-03-10 12:39:30,System,KPI Drop Detected,🚨 Weekly Sales Drop: -36.62%
+2026-03-10 12:39:30,System,KPI Drop Detected,🚨 Monthly Sales Drop: -14.98%
+2026-03-10 12:39:39,Admin,Threshold Change,"Sales=500, Profit=15000, Orders=100, Margin=20, Shipping=3"
+2026-03-10 12:39:39,System,KPI Drop Detected,🚨 Daily Sales Drop: -75.52%
+2026-03-10 12:39:39,System,KPI Drop Detected,🚨 Weekly Sales Drop: -36.62%
+2026-03-10 12:39:39,System,KPI Drop Detected,🚨 Monthly Sales Drop: -14.98%
+2026-03-10 12:41:24,Admin,Threshold Change,"Sales=500, Profit=15000, Orders=100, Margin=20, Shipping=3"
+2026-03-10 12:41:25,System,KPI Drop Detected,🚨 Daily Sales Drop: -75.52%
+2026-03-10 12:41:25,System,KPI Drop Detected,🚨 Weekly Sales Drop: -36.62%
+2026-03-10 12:41:25,System,KPI Drop Detected,🚨 Monthly Sales Drop: -14.98%
+2026-03-10 12:44:43,Admin,Threshold Change,"Sales=500, Profit=15000, Orders=100, Margin=20, Shipping=3"
+2026-03-10 12:44:44,System,KPI Drop Detected,🚨 Daily Sales Drop: -75.52%
+2026-03-10 12:44:44,System,KPI Drop Detected,🚨 Weekly Sales Drop: -36.62%
+2026-03-10 12:44:44,System,KPI Drop Detected,🚨 Monthly Sales Drop: -14.98%
+2026-03-10 12:44:59,Admin,Threshold Change,"Sales=500, Profit=15000, Orders=100, Margin=20, Shipping=3"
+2026-03-10 12:45:00,System,KPI Drop Detected,🚨 Daily Sales Drop: -75.52%
+2026-03-10 12:45:00,System,KPI Drop Detected,🚨 Weekly Sales Drop: -36.62%
+2026-03-10 12:45:00,System,KPI Drop Detected,🚨 Monthly Sales Drop: -14.98%
+2026-03-10 13:00:27,System,KPI Drop Detected,🚨 Daily Sales Drop: -75.52%
+2026-03-10 13:00:27,System,KPI Drop Detected,🚨 Weekly Sales Drop: -36.62%
+2026-03-10 13:00:27,System,KPI Drop Detected,🚨 Monthly Sales Drop: -14.98%
+2026-03-10 13:01:10,Admin,Threshold Change,"Sales=1000, Profit=15000, Orders=100, Margin=20, Shipping=3"
+2026-03-10 13:01:11,System,KPI Drop Detected,🚨 Daily Sales Drop: -75.52%
+2026-03-10 13:01:11,System,KPI Drop Detected,🚨 Weekly Sales Drop: -36.62%
+2026-03-10 13:01:11,System,KPI Drop Detected,🚨 Monthly Sales Drop: -14.98%
+2026-03-10 13:02:55,System,KPI Drop Detected,🚨 Daily Sales Drop: -75.52%
+2026-03-10 13:02:55,System,KPI Drop Detected,🚨 Weekly Sales Drop: -21.82%
+2026-03-10 13:02:55,System,KPI Drop Detected,🚨 Monthly Sales Drop: -29.60%
+2026-03-10 13:03:53,Admin,Threshold Change,"Sales=501, Profit=15000, Orders=100, Margin=20, Shipping=3"
+2026-03-10 13:03:53,System,KPI Drop Detected,🚨 Daily Sales Drop: -75.52%
+2026-03-10 13:03:53,System,KPI Drop Detected,🚨 Weekly Sales Drop: -21.82%
+2026-03-10 13:03:53,System,KPI Drop Detected,🚨 Monthly Sales Drop: -29.60%
+2026-03-10 13:03:54,Admin,Threshold Change,"Sales=502, Profit=15000, Orders=100, Margin=20, Shipping=3"
+2026-03-10 13:03:54,Admin,Threshold Change,"Sales=503, Profit=15000, Orders=100, Margin=20, Shipping=3"
+2026-03-10 13:03:55,System,KPI Drop Detected,🚨 Daily Sales Drop: -75.52%
+2026-03-10 13:03:55,System,KPI Drop Detected,🚨 Weekly Sales Drop: -21.82%
+2026-03-10 13:03:55,System,KPI Drop Detected,🚨 Monthly Sales Drop: -29.60%
+2026-03-10 13:04:10,Admin,Threshold Change,"Sales=503, Profit=150, Orders=100, Margin=20, Shipping=3"
+2026-03-10 13:04:11,System,KPI Drop Detected,🚨 Daily Sales Drop: -75.52%
+2026-03-10 13:04:11,System,KPI Drop Detected,🚨 Weekly Sales Drop: -21.82%
+2026-03-10 13:04:11,System,KPI Drop Detected,🚨 Monthly Sales Drop: -29.60%
+2026-03-13 09:30:48,Admin,Threshold Change,Profit threshold changed to 15000
+2026-03-13 09:30:49,System,KPI Drop Detected,🚨 Daily Sales Drop: -75.52%
+2026-03-13 09:30:49,System,KPI Drop Detected,🚨 Weekly Sales Drop: -36.62%
+2026-03-13 09:30:49,System,KPI Drop Detected,🚨 Monthly Sales Drop: -14.98%
+2026-03-13 10:20:43,Admin,Threshold Change,Profit threshold changed to 15000
+2026-03-13 10:20:44,System,KPI Drop Detected,🚨 Daily Sales Drop: -75.52%
+2026-03-13 10:20:44,System,KPI Drop Detected,🚨 Weekly Sales Drop: -36.62%
+2026-03-13 10:20:44,System,KPI Drop Detected,🚨 Monthly Sales Drop: -14.98%
+2026-03-13 10:29:53,Admin,Threshold Change,Profit threshold changed to 15000
+2026-03-13 10:29:54,System,KPI Drop Detected,🚨 Daily Sales Drop: -75.52%
+2026-03-13 10:29:54,System,KPI Drop Detected,🚨 Weekly Sales Drop: -36.62%
+2026-03-13 10:29:54,System,KPI Drop Detected,🚨 Monthly Sales Drop: -14.98%
+2026-03-23 09:26:53,System,KPI Drop,Daily drop: -71.65%
+2026-03-23 09:26:53,System,KPI Drop,Monthly drop: -28.55%
+2026-03-23 09:27:27,System,KPI Drop,Daily drop: -71.65%
+2026-03-23 09:27:27,System,KPI Drop,Monthly drop: -28.55%
+2026-03-23 09:30:39,System,KPI Drop,Daily drop: -71.65%
+2026-03-23 09:30:39,System,KPI Drop,Monthly drop: -28.55%
+2026-03-23 09:31:37,System,KPI Drop,Daily drop: -71.65%
+2026-03-23 09:31:37,System,KPI Drop,Monthly drop: -28.55%
+2026-03-23 09:31:50,System,KPI Drop,Daily drop: -71.65%
+2026-03-23 09:31:50,System,KPI Drop,Monthly drop: -28.55%
+2026-03-23 09:32:35,System,KPI Drop,Daily drop: -71.65%
+2026-03-23 09:32:35,System,KPI Drop,Monthly drop: -28.55%
+2026-03-23 09:32:53,System,KPI Drop,Daily drop: -71.65%
+2026-03-23 09:32:53,System,KPI Drop,Monthly drop: -28.55%
+2026-03-23 09:33:10,System,KPI Drop,Daily drop: -71.65%
+2026-03-23 09:33:10,System,KPI Drop,Monthly drop: -28.55%
+2026-03-23 09:33:27,System,KPI Drop,Daily drop: -71.65%
+2026-03-23 09:33:27,System,KPI Drop,Monthly drop: -28.55%
+2026-03-23 09:33:40,System,KPI Drop,Daily drop: -71.65%
+2026-03-23 09:33:40,System,KPI Drop,Monthly drop: -28.55%
+2026-03-23 09:33:55,System,KPI Drop,Daily drop: -71.65%
+2026-03-23 09:33:55,System,KPI Drop,Monthly drop: -28.55%
+2026-03-23 09:34:47,System,KPI Drop,Daily drop: -71.65%
+2026-03-23 09:34:47,System,KPI Drop,Monthly drop: -28.55%
+2026-03-23 09:35:16,System,KPI Drop,Daily drop: -71.65%
+2026-03-23 09:35:16,System,KPI Drop,Monthly drop: -28.55%
+2026-03-23 09:35:41,System,KPI Drop,Daily drop: -71.65%
+2026-03-23 09:35:41,System,KPI Drop,Monthly drop: -28.55%
+2026-03-23 09:36:04,System,KPI Drop,Daily drop: -71.65%
+2026-03-23 09:36:04,System,KPI Drop,Monthly drop: -28.55%
+2026-03-23 09:36:26,System,KPI Drop,Daily drop: -71.65%
+2026-03-23 09:36:26,System,KPI Drop,Monthly drop: -28.55%
+2026-03-23 09:36:48,System,KPI Drop,Daily drop: -71.65%
+2026-03-23 09:36:48,System,KPI Drop,Monthly drop: -28.55%
+2026-03-23 09:37:10,System,KPI Drop,Daily drop: -71.65%
+2026-03-23 09:37:10,System,KPI Drop,Monthly drop: -28.55%
+2026-03-23 09:37:33,System,KPI Drop,Daily drop: -71.65%
+2026-03-23 09:37:33,System,KPI Drop,Monthly drop: -28.55%
+2026-03-23 09:37:55,System,KPI Drop,Daily drop: -71.65%
+2026-03-23 09:37:55,System,KPI Drop,Monthly drop: -28.55%
+2026-03-23 09:38:20,System,KPI Drop,Daily drop: -71.65%
+2026-03-23 09:38:20,System,KPI Drop,Monthly drop: -28.55%
+2026-03-23 09:38:44,System,KPI Drop,Daily drop: -71.65%
+2026-03-23 09:38:44,System,KPI Drop,Monthly drop: -28.55%
+2026-03-23 09:39:58,System,KPI Drop,Daily drop: -71.65%
+2026-03-23 09:39:58,System,KPI Drop,Monthly drop: -28.55%
+2026-03-23 09:40:19,System,KPI Drop,Daily drop: -71.65%
+2026-03-23 09:40:19,System,KPI Drop,Monthly drop: -28.55%
+2026-03-23 09:40:40,System,KPI Drop,Daily drop: -71.65%
+2026-03-23 09:40:40,System,KPI Drop,Monthly drop: -28.55%
+2026-03-23 09:41:03,System,KPI Drop,Daily drop: -71.65%
+2026-03-23 09:41:03,System,KPI Drop,Monthly drop: -28.55%
+2026-03-23 09:41:24,System,KPI Drop,Daily drop: -71.65%
+2026-03-23 09:41:24,System,KPI Drop,Monthly drop: -28.55%
+2026-03-23 09:41:46,System,KPI Drop,Daily drop: -71.65%
+2026-03-23 09:41:46,System,KPI Drop,Monthly drop: -28.55%
+2026-03-23 09:42:09,System,KPI Drop,Daily drop: -71.65%
+2026-03-23 09:42:09,System,KPI Drop,Monthly drop: -28.55%
+2026-03-23 09:42:35,System,KPI Drop,Daily drop: -71.65%
+2026-03-23 09:42:35,System,KPI Drop,Monthly drop: -28.55%
+2026-03-23 09:42:58,System,KPI Drop,Daily drop: -71.65%
+2026-03-23 09:42:58,System,KPI Drop,Monthly drop: -28.55%
+2026-03-23 09:45:21,System,KPI Drop,Daily drop: -71.65%
+2026-03-23 09:45:21,System,KPI Drop,Monthly drop: -28.55%
+2026-03-23 09:45:34,System,KPI Drop,Daily drop: -71.65%
+2026-03-23 09:45:34,System,KPI Drop,Monthly drop: -28.55%
+2026-03-23 09:45:46,System,KPI Drop,Daily drop: -71.65%
+2026-03-23 09:45:46,System,KPI Drop,Monthly drop: -28.55%
+2026-03-23 09:45:58,System,KPI Drop,Daily drop: -71.65%
+2026-03-23 09:45:58,System,KPI Drop,Monthly drop: -28.55%
+2026-03-23 09:46:09,System,KPI Drop,Daily drop: -71.65%
+2026-03-23 09:46:09,System,KPI Drop,Monthly drop: -28.55%
+2026-03-23 09:46:20,System,KPI Drop,Daily drop: -71.65%
+2026-03-23 09:46:20,System,KPI Drop,Monthly drop: -28.55%
+2026-03-23 09:46:30,System,KPI Drop,Daily drop: -71.65%
+2026-03-23 09:46:30,System,KPI Drop,Monthly drop: -28.55%
+2026-03-23 09:46:44,System,KPI Drop,Daily drop: -71.65%
+2026-03-23 09:46:44,System,KPI Drop,Monthly drop: -28.55%
+2026-03-23 09:46:57,System,KPI Drop,Daily drop: -71.65%
+2026-03-23 09:46:57,System,KPI Drop,Monthly drop: -28.55%
+2026-03-23 09:47:10,System,KPI Drop,Daily drop: -71.65%
+2026-03-23 09:47:10,System,KPI Drop,Monthly drop: -28.55%
+2026-03-23 09:47:25,System,KPI Drop,Daily drop: -71.65%
+2026-03-23 09:47:25,System,KPI Drop,Monthly drop: -28.55%
+2026-03-23 09:47:41,System,KPI Drop,Daily drop: -71.65%
+2026-03-23 09:47:41,System,KPI Drop,Monthly drop: -28.55%
+2026-03-23 09:48:02,System,KPI Drop,Daily drop: -71.65%
+2026-03-23 09:48:02,System,KPI Drop,Monthly drop: -28.55%
+2026-03-23 09:48:19,System,KPI Drop,Daily drop: -71.65%
+2026-03-23 09:48:19,System,KPI Drop,Monthly drop: -28.55%
+2026-03-23 09:50:07,System,KPI Drop,Daily drop: -71.65%
+2026-03-23 09:50:07,System,KPI Drop,Monthly drop: -28.55%
+2026-03-23 10:20:00,System,KPI Drop,Daily: -71.65%
+2026-03-23 10:20:00,System,KPI Drop,Monthly: -28.55%
+2026-03-23 10:20:20,System,KPI Drop,Daily: -71.65%
+2026-03-23 10:20:20,System,KPI Drop,Monthly: -28.55%
+2026-03-23 10:20:25,System,KPI Drop,Daily: -71.65%
+2026-03-23 10:20:25,System,KPI Drop,Monthly: -28.55%
+2026-03-23 10:20:29,System,KPI Drop,Daily: -71.65%
+2026-03-23 10:20:29,System,KPI Drop,Monthly: -28.55%
+2026-03-23 10:20:33,System,KPI Drop,Daily: -71.65%
+2026-03-23 10:20:33,System,KPI Drop,Monthly: -28.55%
+2026-03-23 10:20:37,System,KPI Drop,Daily: -71.65%
+2026-03-23 10:20:37,System,KPI Drop,Monthly: -28.55%
+2026-03-23 10:20:41,System,KPI Drop,Daily: -71.65%
+2026-03-23 10:20:41,System,KPI Drop,Monthly: -28.55%
+2026-03-23 10:20:46,System,KPI Drop,Daily: -71.65%
+2026-03-23 10:20:46,System,KPI Drop,Monthly: -28.55%
+2026-03-23 10:20:50,System,KPI Drop,Daily: -71.65%
+2026-03-23 10:20:50,System,KPI Drop,Monthly: -28.55%
+2026-03-23 10:20:53,System,KPI Drop,Daily: -71.65%
+2026-03-23 10:20:53,System,KPI Drop,Monthly: -28.55%
+2026-03-23 10:21:12,System,KPI Drop,Daily: -71.65%
+2026-03-23 10:21:12,System,KPI Drop,Monthly: -28.55%
+2026-03-23 10:21:56,System,KPI Drop,Daily: -71.65%
+2026-03-23 10:21:56,System,KPI Drop,Monthly: -28.55%
+2026-03-23 10:22:27,System,KPI Drop,Daily: -71.65%
+2026-03-23 10:22:27,System,KPI Drop,Monthly: -28.55%
+2026-03-23 10:22:51,System,KPI Drop,Daily: -71.65%
+2026-03-23 10:22:51,System,KPI Drop,Monthly: -28.55%
+2026-03-23 10:23:10,System,KPI Drop,Daily: -71.65%
+2026-03-23 10:23:10,System,KPI Drop,Monthly: -28.55%
+2026-03-23 10:23:38,System,KPI Drop,Daily: -67.59%
+2026-03-23 10:23:38,System,KPI Drop,Weekly: -89.53%
+2026-03-23 10:23:38,System,KPI Drop,Monthly: -97.52%
+2026-03-23 10:24:06,System,KPI Drop,Daily: -96.82%
+2026-03-23 10:24:06,System,KPI Drop,Weekly: -83.95%
+2026-03-23 10:24:06,System,KPI Drop,Monthly: -96.18%
+2026-03-23 10:24:30,System,KPI Drop,Weekly: -86.66%
+2026-03-23 10:24:30,System,KPI Drop,Monthly: -93.31%
+2026-03-23 10:24:42,Admin,Logout,User logged out
+2026-03-23 10:25:07,System,KPI Drop,Weekly: -86.66%
+2026-03-23 10:25:07,System,KPI Drop,Monthly: -93.31%
+2026-03-23 10:25:13,System,KPI Drop,Weekly: -86.66%
+2026-03-23 10:25:13,System,KPI Drop,Monthly: -93.31%
+2026-03-23 10:36:19,System,KPI Drop,Daily: -71.65%
+2026-03-23 10:36:19,System,KPI Drop,Monthly: -28.55%
+2026-03-23 10:37:26,System,KPI Drop,Daily: -71.65%
+2026-03-23 10:37:26,System,KPI Drop,Monthly: -28.55%
+2026-03-23 10:37:28,System,KPI Drop,Daily: -71.65%
+2026-03-23 10:37:28,System,KPI Drop,Monthly: -28.55%
+2026-03-23 10:37:31,System,KPI Drop,Daily: -71.65%
+2026-03-23 10:37:31,System,KPI Drop,Monthly: -28.55%
+2026-03-23 10:37:34,System,KPI Drop,Daily: -71.65%
+2026-03-23 10:37:34,System,KPI Drop,Monthly: -28.55%
+2026-03-23 10:37:38,System,KPI Drop,Daily: -71.65%
+2026-03-23 10:37:38,System,KPI Drop,Monthly: -28.55%
+2026-03-23 10:37:39,System,KPI Drop,Daily: -71.65%
+2026-03-23 10:37:39,System,KPI Drop,Monthly: -28.55%
+2026-03-23 10:37:44,System,KPI Drop,Daily: -71.65%
+2026-03-23 10:37:44,System,KPI Drop,Monthly: -28.55%
+2026-03-23 10:37:52,System,KPI Drop,Daily: -71.65%
+2026-03-23 10:37:52,System,KPI Drop,Monthly: -28.55%
+2026-03-23 10:38:12,System,KPI Drop,Daily: -71.65%
+2026-03-23 10:38:12,System,KPI Drop,Monthly: -28.55%
+2026-03-27 09:05:57,System,KPI Drop,Daily: -71.65%
+2026-03-27 09:05:57,System,KPI Drop,Monthly: -28.55%
+2026-03-27 09:14:40,System,KPI Drop,Daily: -71.65%
+2026-03-27 09:14:40,System,KPI Drop,Monthly: -28.55%
+2026-03-27 09:14:44,System,KPI Drop,Daily: -71.65%
+2026-03-27 09:14:44,System,KPI Drop,Monthly: -28.55%
+2026-03-27 09:14:48,System,KPI Drop,Daily: -71.65%
+2026-03-27 09:14:48,System,KPI Drop,Monthly: -28.55%
+2026-03-27 09:15:16,System,KPI Drop,Daily: -71.65%
+2026-03-27 09:15:16,System,KPI Drop,Monthly: -28.55%
+2026-03-27 09:15:24,System,KPI Drop,Daily: -71.65%
+2026-03-27 09:15:24,System,KPI Drop,Monthly: -28.55%
+2026-03-27 09:19:17,System,KPI Drop,Daily: -71.65%
+2026-03-27 09:19:17,System,KPI Drop,Monthly: -28.55%
+2026-03-27 09:20:38,System,KPI Drop,Daily: -71.65%
+2026-03-27 09:20:38,System,KPI Drop,Monthly: -28.55%
+2026-03-27 09:20:41,System,KPI Drop,Daily: -71.65%
+2026-03-27 09:20:41,System,KPI Drop,Monthly: -28.55%
+2026-03-27 09:20:44,System,KPI Drop,Daily: -71.65%
+2026-03-27 09:20:44,System,KPI Drop,Monthly: -28.55%
+2026-03-27 09:20:47,System,KPI Drop,Daily: -71.65%
+2026-03-27 09:20:47,System,KPI Drop,Monthly: -28.55%
+2026-03-27 09:20:50,System,KPI Drop,Daily: -71.65%
+2026-03-27 09:20:50,System,KPI Drop,Monthly: -28.55%
+2026-03-27 09:21:05,System,KPI Drop,Daily: -71.65%
+2026-03-27 09:21:05,System,KPI Drop,Monthly: -28.55%
+2026-03-27 10:01:36,System,KPI Drop,Daily: -71.65%
+2026-03-27 10:01:36,System,KPI Drop,Monthly: -28.55%
+2026-03-27 10:07:37,System,KPI Drop,Daily: -71.65%
+2026-03-27 10:07:37,System,KPI Drop,Monthly: -28.55%
+2026-03-27 10:13:48,System,KPI Drop,Daily: -71.65%
+2026-03-27 10:13:48,System,KPI Drop,Monthly: -28.55%
+2026-03-27 10:19:55,System,KPI Drop,Daily: -71.65%
+2026-03-27 10:19:55,System,KPI Drop,Monthly: -28.55%
+2026-03-27 10:26:32,System,KPI Drop,Daily: -71.65%
+2026-03-27 10:26:32,System,KPI Drop,Monthly: -28.55%
+2026-03-27 10:30:35,System,KPI Drop,Daily: -71.65%
+2026-03-27 10:30:35,System,KPI Drop,Monthly: -28.55%
+2026-03-27 10:31:36,System,KPI Drop,Daily: -71.65%
+2026-03-27 10:31:36,System,KPI Drop,Monthly: -28.55%
+2026-03-27 10:31:37,System,KPI Drop,Daily: -71.65%
+2026-03-27 10:31:37,System,KPI Drop,Monthly: -28.55%
+2026-03-27 11:09:15,System,KPI Drop,Daily: -71.65%
+2026-03-27 11:09:15,System,KPI Drop,Monthly: -28.55%
+2026-03-27 11:09:26,Admin,Logout,Admin logged out
+2026-03-27 11:22:03,System,KPI Drop,Daily: -71.65%
+2026-03-27 11:22:03,System,KPI Drop,Monthly: -28.55%
+2026-03-27 12:14:47,System,KPI Drop,Daily: -71.65%
+2026-03-27 12:14:47,System,KPI Drop,Monthly: -28.55%
+2026-03-27 12:28:23,Viewer,Logout,User logged out
+2026-03-27 12:28:43,System,KPI Drop,Daily: -71.65%
+2026-03-27 12:28:43,System,KPI Drop,Monthly: -28.55%
+2026-03-27 12:29:05,System,KPI Drop,Daily: -71.65%
+2026-03-27 12:29:05,System,KPI Drop,Monthly: -28.55%
+2026-03-27 12:29:29,System,KPI Drop,Daily: -71.65%
+2026-03-27 12:29:29,System,KPI Drop,Monthly: -28.55%
+2026-03-27 12:29:35,System,KPI Drop,Daily: -67.02%
+2026-03-27 12:29:35,System,KPI Drop,Weekly: -96.48%
+2026-03-27 12:31:07,System,KPI Drop,Daily: -67.02%
+2026-03-27 12:31:07,System,KPI Drop,Weekly: -96.48%
+2026-03-27 12:31:24,System,KPI Drop,Daily: -67.02%
+2026-03-27 12:31:24,System,KPI Drop,Weekly: -96.48%
+2026-03-27 12:31:30,System,KPI Drop,Weekly: -96.48%
+2026-03-27 20:56:04,System,KPI Drop,Daily: -71.65%
+2026-03-27 20:56:04,System,KPI Drop,Monthly: -28.55%
+2026-03-27 20:56:04,Admin,Logout,User logged out
+2026-03-27 20:56:15,System,KPI Drop,Daily: -71.65%
+2026-03-27 20:56:15,System,KPI Drop,Monthly: -28.55%
+2026-03-27 20:56:21,System,KPI Drop,Daily: -71.65%
+2026-03-27 20:56:21,System,KPI Drop,Monthly: -28.55%
+2026-03-27 20:56:31,System,KPI Drop,Daily: -67.02%
+2026-03-27 20:56:31,System,KPI Drop,Weekly: -96.48%
+2026-03-27 20:56:50,Admin,Logout,User logged out
+2026-03-28 14:00:41,System,KPI Drop,Daily: -71.65%
+2026-03-28 14:00:41,System,KPI Drop,Monthly: -28.55%
+2026-03-28 14:01:26,System,KPI Drop,Daily: -71.65%
+2026-03-28 14:01:26,System,KPI Drop,Monthly: -28.55%
+2026-03-28 14:01:31,System,KPI Drop,Daily: -67.02%
+2026-03-28 14:01:31,System,KPI Drop,Weekly: -96.48%
+2026-03-28 14:06:00,System,KPI Drop,Daily: -71.65%
+2026-03-28 14:06:00,System,KPI Drop,Monthly: -28.55%
+2026-03-28 14:09:11,System,KPI Drop,Daily: -71.65%
+2026-03-28 14:09:11,System,KPI Drop,Monthly: -28.55%
+2026-03-28 14:09:14,System,KPI Drop,Daily: -71.65%
+2026-03-28 14:09:14,System,KPI Drop,Monthly: -28.55%
+2026-03-28 14:09:16,System,KPI Drop,Daily: -71.65%
+2026-03-28 14:09:16,System,KPI Drop,Monthly: -28.55%
+2026-03-28 14:09:19,System,KPI Drop,Daily: -71.65%
+2026-03-28 14:09:19,System,KPI Drop,Monthly: -28.55%
+2026-03-28 14:09:21,System,KPI Drop,Daily: -71.65%
+2026-03-28 14:09:21,System,KPI Drop,Monthly: -28.55%
+2026-03-28 14:09:24,System,KPI Drop,Daily: -71.65%
+2026-03-28 14:09:24,System,KPI Drop,Monthly: -28.55%
+2026-03-28 14:09:26,System,KPI Drop,Daily: -71.65%
+2026-03-28 14:09:26,System,KPI Drop,Monthly: -28.55%
+2026-03-28 14:09:29,System,KPI Drop,Daily: -71.65%
+2026-03-28 14:09:29,System,KPI Drop,Monthly: -28.55%
+2026-03-28 14:09:30,System,KPI Drop,Daily: -71.65%
+2026-03-28 14:09:30,System,KPI Drop,Monthly: -28.55%
+2026-03-28 14:10:18,System,KPI Drop,Daily: -71.65%
+2026-03-28 14:10:18,System,KPI Drop,Monthly: -28.55%
+2026-03-28 14:10:24,System,KPI Drop,Daily: -67.02%
+2026-03-28 14:10:24,System,KPI Drop,Weekly: -96.48%
+2026-03-28 15:00:55,System,KPI Drop,Daily: -67.02%
+2026-03-28 15:00:55,System,KPI Drop,Weekly: -96.48%
+2026-03-28 15:01:01,System,KPI Drop,Daily: -67.02%
+2026-03-28 15:01:01,System,KPI Drop,Weekly: -96.48%
+2026-03-28 23:36:10,System,KPI Drop,Daily: -71.65%
+2026-03-28 23:36:10,System,KPI Drop,Monthly: -28.55%
+2026-03-28 23:38:23,System,KPI Drop,Daily: -71.65%
+2026-03-28 23:38:23,System,KPI Drop,Monthly: -28.55%
+2026-03-28 23:57:16,System,KPI Drop,Daily: -71.65%
+2026-03-28 23:57:16,System,KPI Drop,Monthly: -28.55%
+2026-03-31 13:36:53,System,KPI Drop,Daily: -71.65%
+2026-03-31 13:36:53,System,KPI Drop,Monthly: -28.55%
+2026-03-31 13:36:59,System,KPI Drop,Daily: -71.65%
+2026-03-31 13:36:59,System,KPI Drop,Monthly: -28.55%
+2026-03-31 13:37:07,Admin,Logout,User logged out
+2026-03-31 13:59:05,System,KPI Drop,Daily: -71.65%
+2026-03-31 13:59:05,System,KPI Drop,Monthly: -28.55%
+2026-03-31 14:00:01,System,KPI Drop,Daily: -71.65%
+2026-03-31 14:00:01,System,KPI Drop,Monthly: -28.55%
+2026-03-31 14:02:06,System,KPI Drop,Daily: -67.02%
+2026-03-31 14:02:06,System,KPI Drop,Weekly: -96.48%
+2026-03-31 14:09:09,System,KPI Drop,Daily: -71.65%
+2026-03-31 14:09:09,System,KPI Drop,Monthly: -28.55%
+2026-03-31 16:18:06,System,KPI Drop,Daily: -71.65%
+2026-03-31 16:18:06,System,KPI Drop,Monthly: -28.55%
+2026-03-31 16:18:10,System,KPI Drop,Daily: -71.65%
+2026-03-31 16:18:10,System,KPI Drop,Monthly: -28.55%
+2026-03-31 16:18:14,System,KPI Drop,Daily: -71.65%
+2026-03-31 16:18:14,System,KPI Drop,Monthly: -28.55%
+2026-04-12 16:10:04,System,KPI Drop,Daily: -57.90%
+2026-04-12 16:10:04,System,KPI Drop,Weekly: -80.74%
+2026-04-12 16:11:04,System,KPI Drop,Daily: -57.90%
+2026-04-12 16:11:04,System,KPI Drop,Weekly: -80.74%
+2026-04-12 16:11:07,System,KPI Drop,Daily: -57.90%
+2026-04-12 16:11:07,System,KPI Drop,Weekly: -80.74%
+2026-04-12 16:11:10,System,KPI Drop,Daily: -57.90%
+2026-04-12 16:11:10,System,KPI Drop,Weekly: -80.74%
+2026-04-12 16:11:13,System,KPI Drop,Daily: -57.90%
+2026-04-12 16:11:13,System,KPI Drop,Weekly: -80.74%
+2026-04-12 16:11:15,System,KPI Drop,Daily: -57.90%
+2026-04-12 16:11:15,System,KPI Drop,Weekly: -80.74%
+2026-04-12 16:11:18,System,KPI Drop,Daily: -57.90%
+2026-04-12 16:11:18,System,KPI Drop,Weekly: -80.74%
+2026-04-12 16:11:19,System,KPI Drop,Daily: -57.90%
+2026-04-12 16:11:19,System,KPI Drop,Weekly: -80.74%
+2026-04-12 16:14:47,System,KPI Drop,Daily: -57.90%
+2026-04-12 16:14:47,System,KPI Drop,Weekly: -80.74%
+2026-04-12 16:33:22,System,KPI Drop,Daily: -57.90%
+2026-04-12 16:33:22,System,KPI Drop,Weekly: -80.74%
+2026-04-12 16:42:43,System,KPI Drop,Daily: -57.90%
+2026-04-12 16:42:43,System,KPI Drop,Weekly: -80.74%
+2026-04-12 17:00:17,System,KPI Drop,Daily: -57.90%
+2026-04-12 17:00:17,System,KPI Drop,Weekly: -80.74%
+2026-04-12 17:05:36,System,KPI Drop,Daily: -57.90%
+2026-04-12 17:05:36,System,KPI Drop,Weekly: -80.74%
+2026-04-12 17:06:01,System,KPI Drop,Daily: -57.90%
+2026-04-12 17:06:01,System,KPI Drop,Weekly: -80.74%
+2026-04-12 17:06:31,System,KPI Drop,Daily: -57.90%
+2026-04-12 17:06:31,System,KPI Drop,Weekly: -80.74%
+2026-04-12 17:11:02,System,KPI Drop,Daily: -57.90%
+2026-04-12 17:11:02,System,KPI Drop,Weekly: -80.74%
+2026-04-12 17:11:18,System,KPI Drop,Daily: -57.90%
+2026-04-12 17:11:18,System,KPI Drop,Weekly: -80.74%
+2026-04-12 17:14:30,System,KPI Drop,Daily: -57.90%
+2026-04-12 17:14:30,System,KPI Drop,Weekly: -80.74%
+2026-04-12 17:14:36,System,KPI Drop,Daily: -57.90%
+2026-04-12 17:14:36,System,KPI Drop,Weekly: -80.74%
+2026-04-12 17:43:12,System,KPI Drop,Daily: -57.90%
+2026-04-12 17:43:12,System,KPI Drop,Weekly: -80.74%
+2026-04-12 17:43:16,System,KPI Drop,Daily: -57.90%
+2026-04-12 17:43:16,System,KPI Drop,Weekly: -80.74%
+2026-04-12 17:45:48,System,KPI Drop,Daily: -57.90%
+2026-04-12 17:45:48,System,KPI Drop,Weekly: -80.74%
+2026-04-12 17:45:54,System,KPI Drop,Daily: -57.90%
+2026-04-12 17:45:54,System,KPI Drop,Weekly: -80.74%
+2026-04-12 17:45:59,System,KPI Drop,Weekly: -46.75%
+2026-04-12 17:45:59,System,KPI Drop,Monthly: -36.69%
+2026-04-12 17:46:27,System,KPI Drop,Monthly: -10.73%
+2026-04-12 17:46:37,System,KPI Drop,Weekly: -46.75%
+2026-04-12 17:46:37,System,KPI Drop,Monthly: -36.69%
+2026-04-12 17:46:49,System,KPI Drop,Daily: -67.02%
+2026-04-12 17:46:49,System,KPI Drop,Weekly: -96.48%
+2026-04-12 17:46:54,System,KPI Drop,Weekly: -36.52%
+2026-04-12 17:46:54,System,KPI Drop,Monthly: -25.79%
+2026-04-12 17:46:58,System,KPI Drop,Monthly: -11.65%
+2026-04-13 15:07:59,System,KPI Drop,Daily: -57.90%
+2026-04-13 15:07:59,System,KPI Drop,Weekly: -80.74%
+2026-04-13 15:08:29,System,KPI Drop,Daily: -57.90%
+2026-04-13 15:08:29,System,KPI Drop,Weekly: -80.74%
+2026-04-13 15:08:31,System,KPI Drop,Daily: -57.90%
+2026-04-13 15:08:31,System,KPI Drop,Weekly: -80.74%
+2026-04-13 15:08:33,System,KPI Drop,Daily: -57.90%
+2026-04-13 15:08:33,System,KPI Drop,Weekly: -80.74%
+2026-04-13 15:08:35,System,KPI Drop,Daily: -57.90%
+2026-04-13 15:08:35,System,KPI Drop,Weekly: -80.74%
+2026-04-13 15:08:38,System,KPI Drop,Daily: -57.90%
+2026-04-13 15:08:38,System,KPI Drop,Weekly: -80.74%
+2026-04-13 15:08:40,System,KPI Drop,Daily: -57.90%
+2026-04-13 15:08:40,System,KPI Drop,Weekly: -80.74%
+2026-04-13 15:08:42,System,KPI Drop,Daily: -57.90%
+2026-04-13 15:08:42,System,KPI Drop,Weekly: -80.74%
+2026-04-13 15:08:44,System,KPI Drop,Daily: -57.90%
+2026-04-13 15:08:44,System,KPI Drop,Weekly: -80.74%
+2026-04-13 15:08:46,System,KPI Drop,Daily: -57.90%
+2026-04-13 15:08:46,System,KPI Drop,Weekly: -80.74%
+2026-04-13 15:08:49,System,KPI Drop,Daily: -57.90%
+2026-04-13 15:08:49,System,KPI Drop,Weekly: -80.74%
+2026-04-13 15:08:51,System,KPI Drop,Daily: -57.90%
+2026-04-13 15:08:51,System,KPI Drop,Weekly: -80.74%
+2026-04-13 15:08:53,System,KPI Drop,Daily: -57.90%
+2026-04-13 15:08:53,System,KPI Drop,Weekly: -80.74%
+2026-04-13 15:08:55,System,KPI Drop,Daily: -57.90%
+2026-04-13 15:08:55,System,KPI Drop,Weekly: -80.74%
+2026-04-13 15:08:57,System,KPI Drop,Daily: -57.90%
+2026-04-13 15:08:57,System,KPI Drop,Weekly: -80.74%
+2026-04-13 15:08:59,System,KPI Drop,Daily: -57.90%
+2026-04-13 15:08:59,System,KPI Drop,Weekly: -80.74%
+2026-04-13 15:09:02,System,KPI Drop,Daily: -57.90%
+2026-04-13 15:09:02,System,KPI Drop,Weekly: -80.74%
+2026-04-13 15:09:04,System,KPI Drop,Daily: -57.90%
+2026-04-13 15:09:04,System,KPI Drop,Weekly: -80.74%
+2026-04-13 15:09:06,System,KPI Drop,Daily: -57.90%
+2026-04-13 15:09:06,System,KPI Drop,Weekly: -80.74%
+2026-04-13 15:09:07,System,KPI Drop,Daily: -57.90%
+2026-04-13 15:09:07,System,KPI Drop,Weekly: -80.74%
+2026-04-13 19:26:14,System,KPI Drop,Daily: -57.90%
+2026-04-13 19:26:14,System,KPI Drop,Weekly: -80.74%
+2026-04-17 22:03:53,System,KPI Drop,Daily: -57.90%
+2026-04-17 22:03:53,System,KPI Drop,Weekly: -80.74%
+2026-04-17 22:13:20,System,KPI Drop,Daily: -54.12%
+2026-04-17 22:13:43,Admin,Logout,User logged out
+2026-04-17 22:13:55,System,KPI Drop,Daily: -54.12%
+2026-04-17 22:14:00,System,KPI Drop,Daily: -54.12%
+2026-04-17 22:23:33,System,KPI Drop,Daily: -54.12%
+2026-04-17 22:23:44,System,KPI Drop,Daily: -54.12%
+2026-04-17 22:23:51,System,KPI Drop,Daily: -54.12%
+2026-04-17 22:23:54,System,KPI Drop,Daily: -54.12%
+2026-04-17 22:40:47,System,KPI Drop,Daily: -54.12%
+2026-04-17 22:40:53,System,KPI Drop,Daily: -54.12%
+2026-04-17 22:41:58,System,KPI Drop,Daily: -54.12%
+2026-04-17 22:42:12,System,KPI Drop,Daily: -54.12%
+2026-04-17 22:42:37,System,KPI Drop,Daily: -54.12%
+2026-04-17 23:07:54,System,KPI Drop,Daily: -54.12%
+2026-04-17 23:08:06,System,KPI Drop,Daily: -54.12%
+2026-04-17 23:08:10,System,KPI Drop,Daily: -54.12%
+2026-04-17 23:09:08,System,KPI Drop,Daily: -54.12%
+2026-04-17 23:09:15,System,KPI Drop,Daily: -54.12%
+2026-04-17 23:09:51,System,KPI Drop,Daily: -54.12%
+2026-04-17 23:10:08,System,KPI Drop,Daily: -54.12%
+2026-04-17 23:28:23,System,KPI Drop,Daily: -54.12%
+2026-04-17 23:28:34,System,KPI Drop,Daily: -54.12%
+2026-04-17 23:29:38,System,KPI Drop,Daily: -54.12%
+2026-04-17 23:42:41,System,KPI Drop,Daily: -54.12%
+2026-04-18 00:11:16,System,KPI Drop,Daily: -54.12%
+2026-04-18 00:13:48,Admin,Dataset Override,File: test_messy_data.csv
+2026-04-18 00:13:56,System,KPI Drop,Daily: -54.12%
+2026-04-18 00:14:14,System,KPI Drop,Daily: -54.12%
+2026-04-18 00:14:53,System,KPI Drop,Daily: -54.12%
+2026-04-18 00:41:45,Admin,Dataset Override,File: train.csv
+2026-04-18 00:41:49,System,KPI Drop,Daily: -71.65%
+2026-04-18 00:41:49,System,KPI Drop,Monthly: -28.55%
+2026-04-18 00:42:10,Admin,Dataset Override,File: good_performance.csv
+2026-04-18 00:42:13,System,KPI Drop,Weekly: -46.75%
+2026-04-18 00:42:13,System,KPI Drop,Monthly: -36.69%
+2026-04-18 00:42:29,Admin,Dataset Override,File: average_performance.csv
+2026-04-18 00:42:32,System,KPI Drop,Monthly: -10.73%
+2026-04-18 00:56:06,Admin,Dataset Override,File: Furniture.csv
+2026-04-18 09:03:06,System,KPI Drop,Daily: -54.12%
+2026-04-18 10:14:11,System,KPI Drop,Monthly: -48.83%
+2026-04-18 10:16:48,System,KPI Drop,Monthly: -67.13%
+2026-04-18 10:17:14,System,KPI Drop,Weekly: -32.03%
+2026-04-18 10:19:25,System,KPI Drop,Weekly: -32.03%
+2026-04-18 10:21:28,System,KPI Drop,Monthly: -48.83%
+2026-04-18 10:22:47,System,KPI Drop,Monthly: -67.13%
+2026-04-18 10:23:56,System,KPI Drop,Monthly: -48.83%
+2026-04-18 10:24:21,System,KPI Drop,Daily: -71.65%
+2026-04-18 10:24:21,System,KPI Drop,Monthly: -28.55%
+2026-04-18 10:47:49,System,KPI Drop,Monthly: -85.84%
+2026-04-18 11:02:41,System,KPI Drop,Weekly: -57.14%
+2026-04-18 11:07:45,System,KPI Drop,Weekly: -32.03%
+2026-04-18 11:11:06,System,KPI Drop,Monthly: -85.84%
+2026-04-18 11:11:33,System,KPI Drop,Monthly: -11.65%
+2026-04-18 11:11:45,System,KPI Drop,Daily: -67.02%
+2026-04-18 11:11:45,System,KPI Drop,Weekly: -96.48%
+2026-04-18 11:11:57,System,KPI Drop,Weekly: -36.52%
+2026-04-18 11:11:57,System,KPI Drop,Monthly: -25.79%
+2026-04-18 11:14:04,System,KPI Drop,Daily: -70.00%
+2026-04-18 11:14:04,System,KPI Drop,Weekly: -35.10%
+2026-04-18 11:14:04,System,KPI Drop,Monthly: -54.16%
+2026-04-18 11:15:15,System,KPI Drop,Daily: -70.00%
+2026-04-18 11:15:15,System,KPI Drop,Weekly: -35.10%
+2026-04-18 11:15:15,System,KPI Drop,Monthly: -54.16%
+2026-04-18 11:17:31,System,KPI Drop,Daily: -70.00%
+2026-04-18 11:17:31,System,KPI Drop,Weekly: -35.10%
+2026-04-18 11:17:31,System,KPI Drop,Monthly: -54.16%
+2026-04-18 11:20:56,Admin,Logout,User logged out
+2026-04-18 11:21:05,System,KPI Drop,Daily: -70.00%
+2026-04-18 11:21:05,System,KPI Drop,Weekly: -35.10%
+2026-04-18 11:21:05,System,KPI Drop,Monthly: -54.16%
+2026-04-18 11:21:25,System,KPI Drop,Daily: -70.00%
+2026-04-18 11:21:25,System,KPI Drop,Weekly: -35.10%
+2026-04-18 11:21:25,System,KPI Drop,Monthly: -54.16%
+2026-04-18 11:33:50,Admin,Logout,User logged out
+2026-04-18 11:40:42,System,KPI Drop,Daily: -54.12%
+2026-04-18 11:40:54,System,KPI Drop,Weekly: -55.94%
+2026-04-23 22:47:10,System,KPI Drop,Daily: -54.12%
+2026-04-23 22:47:39,System,KPI Drop,Daily: -54.12%
+2026-04-23 22:48:23,System,KPI Drop,Daily: -54.12%
+2026-04-23 22:58:03,System,KPI Drop,Weekly: -55.94%
+2026-04-23 22:58:33,System,KPI Drop,Weekly: -55.94%
+2026-04-23 22:58:41,System,KPI Drop,Weekly: -50.00%
+2026-04-23 22:58:41,System,KPI Drop,Monthly: -67.50%
+2026-04-23 23:02:10,System,KPI Drop,Weekly: -50.00%
+2026-04-23 23:02:10,System,KPI Drop,Monthly: -67.50%
+2026-04-24 08:54:00,System,KPI Drop,Daily: -71.65%
+2026-04-24 08:54:00,System,KPI Drop,Monthly: -28.55%
+2026-04-24 08:54:21,System,KPI Drop,Daily: -71.65%
+2026-04-24 08:54:21,System,KPI Drop,Monthly: -28.55%
+2026-04-24 08:54:53,System,KPI Drop,Daily: -71.65%
+2026-04-24 08:54:53,System,KPI Drop,Monthly: -28.55%
+2026-04-24 09:03:35,System,KPI Drop,Daily: -71.65%
+2026-04-24 09:03:35,System,KPI Drop,Weekly: -73.87%
+2026-04-24 09:03:35,System,KPI Drop,Monthly: -25.80%
+2026-04-24 09:06:16,System,KPI Drop,Daily: -71.65%
+2026-04-24 09:06:16,System,KPI Drop,Weekly: -73.87%
+2026-04-24 09:06:16,System,KPI Drop,Monthly: -25.80%
+2026-04-24 09:10:31,System,KPI Drop,Daily: -71.65%
+2026-04-24 09:10:31,System,KPI Drop,Weekly: -73.87%
+2026-04-24 09:10:31,System,KPI Drop,Monthly: -25.80%
+2026-04-24 09:11:21,System,KPI Drop,Weekly: -50.00%
+2026-04-24 09:11:21,System,KPI Drop,Monthly: -67.50%
+2026-04-24 09:12:20,System,KPI Drop,Weekly: -50.00%
+2026-04-24 09:12:20,System,KPI Drop,Monthly: -67.50%
+2026-04-24 09:21:25,System,KPI Drop,Daily: -71.65%
+2026-04-24 09:21:25,System,KPI Drop,Weekly: -73.87%
+2026-04-24 09:21:25,System,KPI Drop,Monthly: -25.80%
+2026-04-24 09:26:21,System,KPI Drop,Daily: -71.65%
+2026-04-24 09:26:21,System,KPI Drop,Weekly: -73.87%
+2026-04-24 09:26:21,System,KPI Drop,Monthly: -25.80%
+2026-04-24 09:27:25,System,KPI Drop,Daily: -71.65%
+2026-04-24 09:27:25,System,KPI Drop,Weekly: -73.87%
+2026-04-24 09:27:25,System,KPI Drop,Monthly: -25.80%
+2026-04-24 09:27:27,System,KPI Drop,Daily: -71.65%
+2026-04-24 09:27:27,System,KPI Drop,Weekly: -73.87%
+2026-04-24 09:27:27,System,KPI Drop,Monthly: -25.80%
+2026-04-24 09:27:30,System,KPI Drop,Daily: -71.65%
+2026-04-24 09:27:30,System,KPI Drop,Weekly: -73.87%
+2026-04-24 09:27:30,System,KPI Drop,Monthly: -25.80%
+2026-04-24 09:27:33,System,KPI Drop,Daily: -71.65%
+2026-04-24 09:27:33,System,KPI Drop,Weekly: -73.87%
+2026-04-24 09:27:33,System,KPI Drop,Monthly: -25.80%
+2026-04-24 09:27:36,System,KPI Drop,Daily: -71.65%
+2026-04-24 09:27:36,System,KPI Drop,Weekly: -73.87%
+2026-04-24 09:27:36,System,KPI Drop,Monthly: -25.80%
+2026-04-24 09:27:39,System,KPI Drop,Daily: -71.65%
+2026-04-24 09:27:39,System,KPI Drop,Weekly: -73.87%
+2026-04-24 09:27:39,System,KPI Drop,Monthly: -25.80%
+2026-04-24 09:27:42,System,KPI Drop,Daily: -71.65%
+2026-04-24 09:27:42,System,KPI Drop,Weekly: -73.87%
+2026-04-24 09:27:42,System,KPI Drop,Monthly: -25.80%
+2026-04-24 09:27:45,System,KPI Drop,Daily: -71.65%
+2026-04-24 09:27:45,System,KPI Drop,Weekly: -73.87%
+2026-04-24 09:27:45,System,KPI Drop,Monthly: -25.80%
+2026-04-24 09:27:48,System,KPI Drop,Daily: -71.65%
+2026-04-24 09:27:48,System,KPI Drop,Weekly: -73.87%
+2026-04-24 09:27:48,System,KPI Drop,Monthly: -25.80%
+2026-04-24 09:27:50,System,KPI Drop,Daily: -71.65%
+2026-04-24 09:27:50,System,KPI Drop,Weekly: -73.87%
+2026-04-24 09:27:50,System,KPI Drop,Monthly: -25.80%
+2026-04-24 09:27:52,System,KPI Drop,Daily: -71.65%
+2026-04-24 09:27:52,System,KPI Drop,Weekly: -73.87%
+2026-04-24 09:27:52,System,KPI Drop,Monthly: -25.80%
+2026-04-24 09:47:58,System,KPI Drop,Daily: -71.65%
+2026-04-24 09:47:58,System,KPI Drop,Weekly: -73.87%
+2026-04-24 09:47:58,System,KPI Drop,Monthly: -25.80%
+2026-04-24 09:48:11,System,KPI Drop,Daily: -71.65%
+2026-04-24 09:48:11,System,KPI Drop,Weekly: -73.87%
+2026-04-24 09:48:11,System,KPI Drop,Monthly: -25.80%
+2026-04-24 09:48:17,System,KPI Drop,Daily: -71.65%
+2026-04-24 09:48:17,System,KPI Drop,Weekly: -73.87%
+2026-04-24 09:48:17,System,KPI Drop,Monthly: -25.80%
+2026-04-24 09:48:28,System,KPI Drop,Daily: -98.78%
+2026-04-24 09:48:28,System,KPI Drop,Weekly: -67.22%
+2026-04-24 09:48:28,System,KPI Drop,Monthly: -98.23%
+2026-04-24 09:48:40,System,KPI Drop,Weekly: -99.60%
+2026-04-24 09:48:40,System,KPI Drop,Monthly: -98.18%
+2026-04-24 09:48:52,System,KPI Drop,Weekly: -87.61%
+2026-04-24 09:48:52,System,KPI Drop,Monthly: -97.14%
+2026-04-24 09:49:02,System,KPI Drop,Daily: -94.83%
+2026-04-24 09:49:02,System,KPI Drop,Weekly: -98.92%
+2026-04-24 09:49:02,System,KPI Drop,Monthly: -96.60%
+2026-04-24 09:49:13,System,KPI Drop,Weekly: -68.64%
+2026-04-24 09:49:13,System,KPI Drop,Monthly: -96.12%
+2026-04-24 09:49:24,System,KPI Drop,Daily: -97.32%
+2026-04-24 09:49:24,System,KPI Drop,Monthly: -94.02%
+2026-04-24 09:49:35,System,KPI Drop,Weekly: -13.09%
+2026-04-24 09:49:35,System,KPI Drop,Monthly: -91.76%
+2026-04-24 09:49:45,System,KPI Drop,Monthly: -89.84%
+2026-04-24 09:49:56,System,KPI Drop,Weekly: -75.27%
+2026-04-24 09:49:56,System,KPI Drop,Monthly: -87.91%
+2026-04-24 09:50:07,System,KPI Drop,Weekly: -13.92%
+2026-04-24 09:50:07,System,KPI Drop,Monthly: -84.91%
+2026-04-24 09:50:18,System,KPI Drop,Weekly: -85.71%
+2026-04-24 09:50:18,System,KPI Drop,Monthly: -95.51%
+2026-04-24 09:50:29,System,KPI Drop,Weekly: -84.63%
+2026-04-24 09:50:29,System,KPI Drop,Monthly: -95.17%
+2026-04-24 09:50:39,System,KPI Drop,Daily: -76.49%
+2026-04-24 09:50:39,System,KPI Drop,Weekly: -82.38%
+2026-04-24 09:50:39,System,KPI Drop,Monthly: -94.48%
+2026-04-24 09:50:43,System,KPI Drop,Daily: -76.49%
+2026-04-24 09:50:43,System,KPI Drop,Weekly: -82.38%
+2026-04-24 09:50:43,System,KPI Drop,Monthly: -94.48%
+2026-04-24 09:50:51,System,KPI Drop,Daily: -71.65%
+2026-04-24 09:50:51,System,KPI Drop,Weekly: -73.87%
+2026-04-24 09:50:51,System,KPI Drop,Monthly: -25.80%
+2026-04-24 09:50:54,System,KPI Drop,Daily: -71.65%
+2026-04-24 09:50:54,System,KPI Drop,Weekly: -73.87%
+2026-04-24 09:50:54,System,KPI Drop,Monthly: -25.80%
+2026-04-24 09:50:58,System,KPI Drop,Daily: -71.65%
+2026-04-24 09:50:58,System,KPI Drop,Weekly: -73.87%
+2026-04-24 09:50:58,System,KPI Drop,Monthly: -25.80%
+2026-04-24 11:57:54,System,KPI Drop,Daily: -71.65%
+2026-04-24 11:57:54,System,KPI Drop,Weekly: -73.87%
+2026-04-24 11:57:54,System,KPI Drop,Monthly: -25.80%
+2026-04-24 12:00:29,System,KPI Drop,Daily: -71.65%
+2026-04-24 12:00:29,System,KPI Drop,Weekly: -73.87%
+2026-04-24 12:00:29,System,KPI Drop,Monthly: -25.80%
+2026-04-24 12:00:48,System,KPI Drop,Daily: -71.65%
+2026-04-24 12:00:48,System,KPI Drop,Weekly: -73.87%
+2026-04-24 12:00:48,System,KPI Drop,Monthly: -25.80%
+2026-04-24 12:35:31,System,KPI Drop,Daily: -71.65%
+2026-04-24 12:35:31,System,KPI Drop,Weekly: -73.87%
+2026-04-24 12:35:31,System,KPI Drop,Monthly: -25.80%
+2026-04-24 12:52:25,System,KPI Drop,Daily: -71.65%
+2026-04-24 12:52:25,System,KPI Drop,Weekly: -73.87%
+2026-04-24 12:52:26,System,KPI Drop,Monthly: -25.80%
+2026-04-24 12:54:48,System,KPI Drop,Daily: -71.65%
+2026-04-24 12:54:48,System,KPI Drop,Weekly: -73.87%
+2026-04-24 12:54:48,System,KPI Drop,Monthly: -25.80%
+2026-04-24 12:57:30,System,KPI Drop,Daily: -71.65%
+2026-04-24 12:57:30,System,KPI Drop,Weekly: -73.87%
+2026-04-24 12:57:30,System,KPI Drop,Monthly: -25.80%
+2026-04-24 12:57:54,System,KPI Drop,Daily: -71.65%
+2026-04-24 12:57:54,System,KPI Drop,Weekly: -73.87%
+2026-04-24 12:57:54,System,KPI Drop,Monthly: -25.80%
+2026-04-24 13:17:38,System,KPI Drop,Daily: -71.65%
+2026-04-24 13:17:38,System,KPI Drop,Weekly: -73.87%
+2026-04-24 13:17:38,System,KPI Drop,Monthly: -25.80%
+2026-04-24 13:18:43,System,KPI Drop,Daily: -71.65%
+2026-04-24 13:18:43,System,KPI Drop,Weekly: -73.87%
+2026-04-24 13:18:43,System,KPI Drop,Monthly: -25.80%
+2026-04-24 13:19:42,System,KPI Drop,Daily: -71.65%
+2026-04-24 13:19:42,System,KPI Drop,Weekly: -73.87%
+2026-04-24 13:19:42,System,KPI Drop,Monthly: -25.80%
+2026-04-24 13:23:58,System,KPI Drop,Daily: -71.65%
+2026-04-24 13:23:58,System,KPI Drop,Weekly: -73.87%
+2026-04-24 13:23:58,System,KPI Drop,Monthly: -25.80%

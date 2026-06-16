@@ -1,0 +1,92 @@
+order_date,sales,profit,category,region,segment
+01-01-2024,20000,3000,Technology,East,Consumer
+01-02-2024,21000,3150,Technology,East,Consumer
+01-03-2024,22000,3300,Furniture,West,Corporate
+01-04-2024,23000,3450,Furniture,West,Corporate
+01-05-2024,24000,3600,Office Supplies,South,Home Office
+01-06-2024,25000,3750,Office Supplies,South,Home Office
+01-07-2024,26000,3900,Technology,North,Consumer
+01-08-2024,27000,4050,Technology,North,Consumer
+01-09-2024,28000,4200,Furniture,East,Corporate
+01-10-2024,29000,4350,Furniture,East,Corporate
+01-11-2024,30000,4500,Office Supplies,West,Home Office
+01-12-2024,31000,4650,Office Supplies,West,Home Office
+01-01-2025,32000,4800,Technology,South,Consumer
+01-02-2025,33000,4950,Technology,South,Consumer
+01-03-2025,34000,5100,Furniture,North,Corporate
+01-04-2025,35000,5250,Furniture,North,Corporate
+01-05-2025,36000,5400,Office Supplies,East,Home Office
+01-06-2025,37000,5550,Office Supplies,East,Home Office
+01-07-2025,38000,5700,Technology,West,Consumer
+01-08-2025,39000,5850,Technology,West,Consumer
+01-09-2025,40000,6000,Furniture,South,Corporate
+01-10-2025,41000,6150,Furniture,South,Corporate
+01-11-2025,50000,7500,Office Supplies,North,Home Office
+15-11-2025,50000,7500,Office Supplies,North,Home Office
+01-12-2025,5000,750,Technology,East,Consumer
+05-12-2025,5000,750,Technology,East,Consumer
+10-12-2025,5000,750,Furniture,West,Corporate
+15-12-2025,5000,,Furniture,West,Corporate
+20-12-2025,5000,750,Office Supplies,South,Home Office
+25-12-2025,5000,750,Office Supplies,South,Home Office
+28-12-2025,5000,750,Technology,North,Consumer
+31-12-2025,5000,750,Technology,North,Consumer
+20-01-2024,10200,1530,Technology,East,Consumer
+20-02-2024,11200,1680,Technology,East,Consumer
+20-03-2024,12200,1830,Furniture,West,Corporate
+20-04-2024,13200,1980,Furniture,West,Corporate
+20-05-2024,14200,2130,Office Supplies,South,Home Office
+20-06-2024,15200,2280,Office Supplies,South,Home Office
+20-07-2024,16200,2430,Technology,North,Consumer
+20-08-2024,17200,2580,Technology,North,Consumer
+20-09-2024,18200,2730,Furniture,East,Corporate
+20-10-2024,19200,2880,Furniture,East,Corporate
+20-11-2024,20200,3030,Office Supplies,West,Home Office
+20-12-2024,21200,3180,Office Supplies,West,Home Office
+20-01-2025,22200,3330,Technology,South,Consumer
+20-02-2025,23200,3480,Technology,South,Consumer
+20-03-2025,24200,3630,Furniture,North,Corporate
+20-04-2025,25200,3780,Furniture,North,Corporate
+20-05-2025,26200,3930,Office Supplies,East,Home Office
+20-06-2025,27200,4080,Office Supplies,East,Home Office
+20-07-2025,28200,4230,Technology,West,Consumer
+20-08-2025,29200,4380,Technology,West,Consumer
+20-09-2025,30200,4530,Furniture,South,Corporate
+20-10-2025,31200,4680,Furniture,South,Corporate
+25-11-2025,32200,4830,Office Supplies,North,Home Office
+20-12-2025,2000,300,Office Supplies,North,Home Office
+25-01-2024,10400,1560,Technology,East,Consumer
+25-02-2024,11400,1710,Technology,East,Consumer
+25-03-2024,12400,1860,Furniture,West,Corporate
+25-04-2024,13400,2010,Furniture,West,Corporate
+25-05-2024,14400,2160,Office Supplies,South,Home Office
+25-06-2024,15400,2310,Office Supplies,South,Home Office
+25-07-2024,16400,2460,Technology,North,Consumer
+25-08-2024,17400,2610,Technology,North,Consumer
+25-09-2024,18400,2760,Furniture,East,Corporate
+25-10-2024,19400,2910,Furniture,East,Corporate
+25-11-2024,20400,3060,Office Supplies,West,Home Office
+25-12-2024,21400,3210,Office Supplies,West,Home Office
+25-01-2025,22400,3360,Technology,South,Consumer
+25-02-2025,23400,3510,Technology,South,Consumer
+25-03-2025,24400,3660,Furniture,North,Corporate
+25-04-2025,25400,3810,Furniture,North,Corporate
+25-05-2025,26400,3960,Office Supplies,East,Home Office
+25-06-2025,27400,4110,Office Supplies,East,Home Office
+25-07-2025,28400,4260,Technology,West,Consumer
+25-08-2025,29400,4410,Technology,West,Consumer
+25-09-2025,30400,4560,Furniture,South,Corporate
+25-10-2025,31400,4710,Furniture,South,Corporate
+30-11-2025,32400,4860,Office Supplies,North,Home Office
+30-12-2025,1000,150,Office Supplies,North,Home Office
+21-12-2025,1000,150,Technology,East,Consumer
+22-12-2025,1000,150,Furniture,West,Corporate
+23-12-2025,1000,,Office Supplies,South,Home Office
+24-12-2025,1000,150,Technology,North,Consumer
+25-12-2025,1000,150,Furniture,East,Corporate
+26-12-2025,1000,150,Office Supplies,West,Home Office
+27-12-2025,1000,150,Technology,South,Consumer
+28-12-2025,1000,150,Furniture,North,Corporate
+29-12-2025,1000,150,Office Supplies,East,Home Office
+30-12-2025,1000,150,Technology,West,Consumer
+31-12-2025,500,75,Furniture,South,Corporate
